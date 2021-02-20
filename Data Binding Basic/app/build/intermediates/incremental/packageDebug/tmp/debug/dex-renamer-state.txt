@@ -1,0 +1,4 @@
+#Sat Feb 20 21:35:27 EET 2021
+base.0=G\:\\My-Projects\\MvvmProject\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

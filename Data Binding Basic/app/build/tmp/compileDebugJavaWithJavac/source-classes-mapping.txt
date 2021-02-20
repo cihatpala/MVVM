@@ -1,0 +1,16 @@
+com/example/mvvmproject/MainFragment.java
+ com.example.mvvmproject.MainFragment
+ com.example.mvvmproject.MainFragment$1
+com/example/mvvmproject/MainActivity.java
+ com.example.mvvmproject.MainActivity
+ com.example.mvvmproject.MainActivity$1
+com/example/mvvmproject/FirstViewModel.java
+ com.example.mvvmproject.FirstViewModel
+com/example/mvvmproject/databinding/FragmentMainBinding.java
+ com.example.mvvmproject.databinding.FragmentMainBinding
+com/example/mvvmproject/BuildConfig.java
+ com.example.mvvmproject.BuildConfig
+com/example/mvvmproject/databinding/ActivityMainBinding.java
+ com.example.mvvmproject.databinding.ActivityMainBinding
+com/example/mvvmproject/DataBindingTriggerClass.java
+ com.example.mvvmproject.DataBindingTriggerClass
